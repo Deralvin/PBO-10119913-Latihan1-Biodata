@@ -9,8 +9,10 @@ package perintah_menampilkan_value_ke_layar;
  *
  * @author Muhammad Alvin Rizqi Ramadhan
  * @author NIM 10119913
+ * Kelas : IF10K
+ * Deskripsi Program : Program ini menampilkan Biodata
  */
-public class Latihan1 {
+public class PBO1010119913Latihan1 {
 
     /**
      * @param args the command line arguments
